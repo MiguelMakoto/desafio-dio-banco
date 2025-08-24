@@ -1,3 +1,4 @@
+package funcionalidades.Elementos;
 public class ContaCorrente extends Conta{
     public ContaCorrente(long id, long agencia, String nome, double saldo) {
         super(id, agencia, nome, saldo);

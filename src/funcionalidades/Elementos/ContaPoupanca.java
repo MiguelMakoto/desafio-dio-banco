@@ -1,3 +1,4 @@
+package funcionalidades.Elementos;
 public class ContaPoupanca extends Conta {
 
     public ContaPoupanca(long id, long agencia, String nome, double saldo) {

@@ -1,5 +1,8 @@
 import java.util.Optional;
 
+import funcionalidades.Elementos.Banco;
+import funcionalidades.Elementos.Conta;
+
 public class AppBanco {
     public static void main(String[] args) throws Exception {
         //Set<Conta> lista = new HashSet<>();
