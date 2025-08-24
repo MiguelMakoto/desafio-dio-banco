@@ -1,18 +1,9 @@
-## Getting Started
+## APP BANCO
+Projeto baseado no desafio de banco proposto no módulo de Streams no curso Santander Bootcamp 2025.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# OBJETIVOS
+O aplicativo tem como fim emular um aplicativo simples de banco, visando ter uma estrutura para armazenamento de cliente, acesso à conta por parte de um cliente, e de um gerente.
+Visa também construir uma interface para melhor acessibilidade por parte do cliente.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+# SITUAÇÃO
+Atualmente (24/08/2025), o aplicativo está apenas com as funcionalidades das relações do banco com cada tipo de conta, não possuindo interação com o usuário.
